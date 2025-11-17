@@ -1,0 +1,10 @@
+name: abrahamic-env
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - pymc
+  - arviz
+  - jupyterlab
